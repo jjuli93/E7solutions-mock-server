@@ -2,19 +2,19 @@
   "checklist": {
       "content": [
          { "checklistVersionId": 1, "checklistName": "Fiat 2020", "version": 1 },
-         { "checklistVersionId" 2,  "checklistVersionId": "Peugeot 2XX 2019-2020", "version": 1 },
+         { "checklistVersionId": 2,  "checklistVersionId": "Peugeot 2XX 2019-2020", "version": 1 },
          { "checklistVersionId": 3, "checklistVersionId": "Mercedes Benz 2018-2019", "version": 1 }
       ],
       "pageable": {
-        "totalPages": 1
-        "totalElements": 4
-        "last": true
-        "size": 20
-        "numberOfElements": 4
-        "number": 0
-        "sort": {"unsorted": true, "sorted": false, "empty": true}
-        "first": true
-        "empty": false     
+        "totalPages": 1,
+        "totalElements": 4,
+        "last": true,
+        "size": 20,
+        "numberOfElements": 4,
+        "number": 0,
+        "sort": {"unsorted": true, "sorted": false, "empty": true},
+        "first": true,
+        "empty": false
       }
     }
   } 
